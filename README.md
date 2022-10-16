@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArpitVadariya 🖐
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DSA with Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DevOps Ansible, Jenkins, AWS, GCP, Azure
+- 🌱 I’m currently learning DevOps from Youtube
+- 💞️ I’m looking to get internship for DevOps Role
+- 📫 How to reach me {email : 'arpit092vadariya@gmail.com', Linkedin : 'Arpitkumar Vadariya'}
 
 <!---
 ArpitVadariya/ArpitVadariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
