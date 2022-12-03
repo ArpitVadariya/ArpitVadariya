@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArpitVadariya 🖐
 - 👀 I’m interested in DevOps Ansible, Jenkins, AWS, GCP, Azure
-- 🌱 I’m currently learning DevOps from Youtube
-- 💞️ I’m looking to get internship for DevOps Role
+- 🌱 I’m currently learning DevOps and flutter from Youtube
+- 💞️ I’m looking to get internship for DevOps Role or flutter devloper
 - 📫 How to reach me {email : 'arpit092vadariya@gmail.com', Linkedin : 'Arpitkumar Vadariya'}
 
 <!---
