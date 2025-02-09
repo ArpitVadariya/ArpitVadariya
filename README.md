@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArpitVadariya 🖐
 - 👀 I’m interested in backend development, cloud computing and DevOps
 - 🌱 I’m currently learning Web Development and Flutter from Youtube
-- 💞️ I’m looking to get internship for web developer Role or flutter devloper
+- 💞️ I’m looking to get job in web developer role
 - 📫 How to reach me {email : 'arpit092vadariya@gmail.com', Linkedin : 'Arpitkumar Vadariya'}
 
 <!---
